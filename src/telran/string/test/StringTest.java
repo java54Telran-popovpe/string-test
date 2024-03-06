@@ -121,5 +121,5 @@ class StringTest {
 		//argument - not presented in string
 		assertEquals(-1, "aAgGher".indexOf("!"));
 	}
-	
+		
 }
